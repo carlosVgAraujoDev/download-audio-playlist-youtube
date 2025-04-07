@@ -1,6 +1,6 @@
 # Baixar Playlists do YouTube
 
-Este projeto tem como objetivo facilitar o download de playlists do YouTube. Ele é composto por um script principal que utiliza funções auxiliares para interagir com a API do YouTube e manipular os dados necessários para o download.
+Este projeto tem como objetivo facilitar o download do áudio de playlists do YouTube. Ele é composto por um script principal que utiliza funções auxiliares para interagir com a API do YouTube e manipular os dados necessários para o download.
 
 
 ## Requisitos
