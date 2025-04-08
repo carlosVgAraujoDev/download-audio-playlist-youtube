@@ -15,7 +15,7 @@ Para instalar as dependências do projeto, você deve ter o Python e o pip insta
 #### 1. Clone o repositório:
 ```
 git clone https://github.com/carlosVgAraujoDev/download-videos-youtube
-cd baixar-youtube
+cd download-audio-playlist-youtube
 ```
 
 #### 2. Instalação dos pacotes Python necessários:
